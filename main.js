@@ -4,9 +4,8 @@ function preload(){
 clown_nose= loadImage('https://i.postimg.cc/7Y8Dgnk7/istockphoto-1192834521-612x612-removebg-preview.png');
 }
 
-function draw(){
 
-}
+
 function take_snapshot(){
     save('myFlinterImage.png');
 
